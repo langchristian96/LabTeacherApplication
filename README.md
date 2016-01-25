@@ -2,7 +2,7 @@
 Useful application for lab teachers
 
 PROBLEM STATEMENT
-Write an application to help with the management of laboratory activities for a faculty course such as FP.
+Write an application to help with the management of laboratory activities for a faculty course.
 Students enrolled in the class can be assigned one of the problem statements
 from each laboratory, and when they turn it in they are graded. The application will be used by the teacher and
 will provide the following functionalities:
