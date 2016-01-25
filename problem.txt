@@ -1,0 +1,14 @@
+1,1,2+2,10
+1,2,fa o inmultire,10
+3,2,adunare,9
+4,2,blablabla,4
+1,10,cerinta,10
+1,11,ceva,0
+5,11,fata fata,9
+6,11,bla bla,8
+7,11,bla bla,0
+8,11,da da,0
+9,11,cerinta pt. studenti,0
+10,11,fata fata,9
+11,11,bla bla,0
+2,7,ana are 3 mere,0
