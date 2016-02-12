@@ -1,5 +1,5 @@
 # LabTeacherApplication
-Useful application for lab teachers
+
 
 PROBLEM STATEMENT
 Write an application to help with the management of laboratory activities for a faculty course.
